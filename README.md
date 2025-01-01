@@ -1,4 +1,4 @@
-# Customer Churn Modeling & Analysis
+# Customer Churn Modeling & Analysis (Data Science Project)
 
 ### **Background:**
 
